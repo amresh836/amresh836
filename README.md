@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amresh836" alt="amresh836" /></a> </p>
 
-- 💬 Ask me about **Java,SpringBoot,Docker and K8S**
+- 💬 Ask me about **Java,SpringBoot,Docker,K8S, AWS(Lambda,DynmaoDB,ApiGateway,S3,RDS,VPC,SQS,SNS,CloudWatch,EC2) and GCP(Cloud Storage,CloudBuild,Compute Engine,GKE,Pub/Sub)**
 
 - 📫 How to reach me **amreshranjan6101@gmail.com**
 
