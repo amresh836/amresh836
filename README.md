@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Amresh Ranjan working as Junior Software Engineer at Epam(Hyderabad,India).<br>Passionate backend developer having curiosity to learn and making projects.
+Hi, I'm Amresh Ranjan working as a Junior Software Engineer at Epam(Hyderabad,India).<br>Passionate backend developer having curiosity to learn and making projects.
 
 
 ## 🌐 Socials:
